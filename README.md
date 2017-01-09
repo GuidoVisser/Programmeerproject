@@ -17,6 +17,7 @@ De applicatie kijkt naar je artiesten en afspeellijsten en visualizeert waar je 
 * genres
 * albums
 * nummers
+###### Ik weet niet of dit kan met de spotify API.
 
 Daarnaast kun je een visualisatie oproepen die bands weergeeft die lijken op de muziek die je al hebt. Bands die veel bij je passen worden prominenter weergegeven.
 
