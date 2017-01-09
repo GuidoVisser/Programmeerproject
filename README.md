@@ -12,11 +12,11 @@ Handige visualizaties om naar te kijken op d3 gallery:
 
 ## Spotify - Your Taste
 Een web applicatie waarbij je in kunt loggen met je spotify-account.
-De applicatie kijkt naar je artiesten en afspeellijsten en visualizeert waar je het meest naar luistert:
+De applicatie kijkt naar je artiesten en afspeellijsten en visualizeert waar je het meest naar luistert, op basis van:
 * artiesten
 * genres
 * albums
-* nummers).
+* nummers
 
 Daarnaast kun je een visualisatie oproepen die bands weergeeft die lijken op de muziek die je al hebt. Bands die veel bij je passen worden prominenter weergegeven.
 
