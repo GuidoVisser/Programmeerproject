@@ -25,3 +25,7 @@ Daarnaast kun je een visualisatie oproepen die bands weergeeft die lijken op de 
 Een datamap met bubbels van bijvoorbeeld nederland waar, samen met een tijdlijn weergegeven wordt welke bands die je leuk vind in de buurt een concert geven.
 
 Het zou mooi zijn om het met CSS een beetje op spotify zelf te laten lijken.
+
+
+![alt text](Concept_1.jpg)
+![alt text](Concept_2.jpg)
