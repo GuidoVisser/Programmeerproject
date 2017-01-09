@@ -26,6 +26,7 @@ Een datamap met bubbels van bijvoorbeeld nederland waar, samen met een tijdlijn 
 
 Het zou mooi zijn om het met CSS een beetje op spotify zelf te laten lijken.
 
+Als het niet mogelijk is om op te vragen hoevaak een track of artiest beluisterd is door de user, dan kun je nog altijd kijken naar hoeveel artiesten de user van een bepaald genre heeft en op die manier een pie-chart maken.
 
 ![alt text](Concept_1.jpg)
 ![alt text](Concept_2.jpg)
