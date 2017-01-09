@@ -22,6 +22,6 @@ De applicatie kijkt naar je artiesten en afspeellijsten en visualizeert waar je 
 
 Daarnaast kun je een visualisatie oproepen die bands weergeeft die lijken op de muziek die je al hebt. Bands die veel bij je passen worden prominenter weergegeven.
 
-Een datamap van bijvoorbeeld nederland waar, samen met een tijdlijn weergegeven wordt welke bands die je leuk vind in de buurt een concert geven.
+Een datamap met bubbels van bijvoorbeeld nederland waar, samen met een tijdlijn weergegeven wordt welke bands die je leuk vind in de buurt een concert geven.
 
 Het zou mooi zijn om het met CSS een beetje op spotify zelf te laten lijken.
