@@ -18,7 +18,7 @@ De applicatie kijkt naar je artiesten en afspeellijsten en visualizeert waar je 
 * albums
 * nummers
 
-###### Ik weet niet of dit kan met de spotify API.
+###### Ik weet niet of de spotify API een afspeelcount kan geven.
 
 Daarnaast kun je een visualisatie oproepen die bands weergeeft die lijken op de muziek die je al hebt. Bands die veel bij je passen worden prominenter weergegeven.
 
